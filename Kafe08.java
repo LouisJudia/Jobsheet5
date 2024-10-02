@@ -5,6 +5,7 @@ public class Kafe08 {
         Scanner input = new Scanner(System.in);
 
         // Deklarasi
+        
         String menu;
         char ukuranCup;
         int jumlah;
